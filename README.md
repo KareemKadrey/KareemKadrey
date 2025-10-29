@@ -102,4 +102,4 @@ Front-End Developer and UI/UX Designer with expertise in **HTML5**, **CSS3**, **
 
 </div>
 
-<img src="https://raw.githubusercontent.com/KareemKadrey/KareemKadrey/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/KareemKadrey/KareemKadrey/blob/output/snake-dark.svg)
